@@ -1,0 +1,120 @@
+{
+    "outages": [
+        {
+            "area": "Lower Mainland / Sunshine Coast",
+            "category": "current",
+            "id": "10001",
+            "municipality": "Chilliwack",
+            "offsince": "Jan 16, 8:16 am",
+            "on": "",
+            "crewstatus": "",
+            "arrival": "",
+            "details": "50600 block camp river rd, 11000 - 11300 block gill rd. under investigation",
+            "affected": "19",
+            "updated": "Jan 16, 9:33 am"
+    },
+        {
+            "area": "Lower Mainland / Sunshine Coast",
+            "category": "current",
+            "id": "10002",
+            "municipality": "Langley",
+            "offsince": "Jan 12, 8:39 am",
+            "on": "Jan 19, 4:00 pm",
+            "crewstatus": "",
+            "arrival": "",
+            "details": "***floating day window outage*** a 4hr or less power interruption may occur one day during January 12 - 19 9300 - 9400 blk 213 street. *planned work being done on our equipment",
+            "affected": "< 5",
+            "updated": "Jan 11, 12:26 pm"
+    },
+        {
+            "area": "Lower Mainland / Sunshine Coast",
+            "category": "current",
+            "id": "10003",
+            "municipality": "Surrey",
+            "offsince": "Jan 16, 5:46 am",
+            "on": "",
+            "crewstatus": "",
+            "arrival": "Jan 16, 10:00 am",
+            "details": "15800 - 15900 block 20 ave. transformer burn out",
+            "affected": "12",
+            "updated": "Jan 16, 7:40 am"
+    },
+        {
+            "area": "Lower Mainland / Sunshine Coast",
+            "category": "restored",
+            "id": "10004",
+            "municipality": "Surrey",
+            "offsince": "Jan 16, 5:46 am",
+            "on": "Jan 17, 5:46 am",
+            "crewstatus": "",
+            "arrival": "",
+            "details": "15800 - 15900 block 20 ave. transformer burn out",
+            "affected": "12",
+            "updated": "Jan 16, 7:40 am"
+    },
+        {
+            "area": "Lower Mainland / Sunshine Coast",
+            "category": "restored",
+            "id": "10005",
+            "municipality": "Surrey",
+            "offsince": "Jan 16, 9:21 am",
+            "on": "Jan 16, 10:46 am",
+            "crewstatus": "",
+            "arrival": "",
+            "details": "18100 block 92 ave. under investigation",
+            "affected": "< 5",
+            "updated": "Jan 16, 9:29 am"
+    },
+        {
+            "area": "Lower Mainland / Sunshine Coast",
+            "category": "planned",
+            "id": "10006",
+            "municipality": "Bowen Island",
+            "offsince": "Jan 20, 9:30 am",
+            "on": "Jan 20, 6:30 pm",
+            "crewstatus": "",
+            "arrival": "",
+            "details": "pole replacement smugglers cover, howe rd, finisterre rd, eagle cliff rd, hood point rd, columbine, cove rd.. pole replacement",
+            "affected": "110",
+            "updated": "Jan 12, 6:45 am"
+    },
+        {
+            "area": "Lower Mainland / Sunshine Coast",
+            "category": "planned",
+            "id": "10007",
+            "municipality": "Maple Ridge",
+            "offsince": "Jan 20, 8:00 am",
+            "on": "Jan 20, 4:00 pm",
+            "crewstatus": "",
+            "arrival": "",
+            "details": "20107-20118 121 Ave; 12076-12177 201 St; 20101-20106 121A Ave. Planned work being done on our equipment",
+            "affected": "28",
+            "updated": "Jan 11, 12:24 pm"
+    }
+  ],
+    "categories": [
+        {
+            "name": "current"
+    },
+        {
+            "name": "restored"
+    },
+        {
+            "name": "planned"
+    }
+  ],
+    "regions": [
+        {
+            "area": "Central Interior",
+            "count": "0"
+    },
+        {
+            "area": "Lower Mainland / Sunshine Coast",
+            "count": "0"
+    },
+        {
+            "area": "Northern",
+            "count": "0"
+    }
+  ]
+}
