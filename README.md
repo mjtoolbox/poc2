@@ -10,3 +10,7 @@ Run `grunt` for building and `grunt serve` for preview.
 ## Testing
 
 Running `grunt test` will run the unit tests with karma.
+
+## PoC3 - custom build
+
+[Link here](https://github.com/mjtoolbox/poc3)
